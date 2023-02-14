@@ -1,34 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**shouravsaha/shouravsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> -->
 <a href=""><h1>Hi, 👋 My name is Shourav Saha.</h1></a>
 
 <a href=""><h2>Web Application Developer</h2></a>
@@ -64,7 +33,11 @@ Here are some ideas to get you started:
 
 <p dir="auto"><b>My GitHub Stats</b></p>
 
-<p dir="auto"><a href="https://github.com/shouravsaha"><img src="" alt="shouravsaha's GitHub status" data-canonical-src="https://github-readme-stats.vercel.app/api?username=shouravsaha&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=14b8a6&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"></a></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shouravsaha&show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=14b8a6&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true")
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=shouravsaha&amp;stroke=ffffff&amp;background=1c1917&amp;ring=14b8a6&amp;fire=14b8a6&amp;currStreakNum=ffffff&amp;currStreakLabel=14b8a6&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true)  
+
+
 
 
 
